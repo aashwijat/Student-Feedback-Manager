@@ -1,4 +1,4 @@
-name: Greater Action
+name: Hello
 on: [push]
 jobs: 
   greet:
