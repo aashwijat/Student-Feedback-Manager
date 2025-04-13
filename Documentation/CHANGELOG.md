@@ -16,6 +16,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) 
 - Report generator.
 
 ## 1.2.0 (April 9, 2025)
-### Added
+#### Added
 - Ability to search for feedbacks using the student's name.
 - Count the total number of feedbacks submitted by a student.
