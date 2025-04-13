@@ -6,5 +6,7 @@ This repository focuses on managing student feedback using various functions and
 - Collect Stduent feedback
 - Compute average score
 - Summarize the details entered
-- Displaying the details in a .txt format
+- Displays a report in .txt format
+- Search for feedback using student name
+- Count the total number of entries submitted
   
